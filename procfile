@@ -1,1 +1,2 @@
-worker: node bc.js
+NODE bc.js
+pause
